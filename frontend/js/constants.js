@@ -1,4 +1,4 @@
-const contractAddress = "0xfA34C0f3f1b722c54422186B732b5DDc5F4F6FF2"; //Replace with your own contract address
+const contractAddress = "0xC2fEFa7F4E05eACa40DFEE3eDffb9cA92CD44Ff5"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Eggs Of Knowledge NFT Project!!";
