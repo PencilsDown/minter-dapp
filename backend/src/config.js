@@ -45,7 +45,7 @@ const CHAIN = 'rinkeby'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
 const CONTRACT_NAME = 'Eggs Of Knowledge';
-const CONTRACT_SYMBOL = 'EOK';
+const CONTRACT_SYMBOL = 'EK';
 const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xa6f928959B42cF4a57f330D839736dB8db2b18b7';
 const TREASURY_ADDRESS = '0xa6f928959B42cF4a57f330D839736dB8db2b18b7';
