@@ -1,5 +1,5 @@
-const contractAddress = "0xAC6094D07be4d1Cd9A0d3d2bB7e815337fc5D5E6"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xd9a2d6353bc8f310cd7342c4196cb4649b33c6f4"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Eggs Of Knowledge NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
